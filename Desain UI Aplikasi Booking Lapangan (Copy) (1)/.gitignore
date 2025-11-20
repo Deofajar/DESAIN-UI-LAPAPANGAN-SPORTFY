@@ -1,0 +1,9 @@
+node_modules
+.env
+backend-sportify/node_modules
+backend-sportify/.env
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+.DS_Store
